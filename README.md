@@ -1,14 +1,16 @@
 # cypress-test-automation
 Cypress tests
 
-Install Cypress
+# Install Cypress
+
 npm install cypress --save--dev
 
 npm init -y
 
 
-Folder Structure
-# Selectors are added under "selectors.json" file
-# Functions are written under "commands.js" file
-# All configuration are present under cypress.config.js file
+# Folder Structure
+
+1. Selectors are added under "cypress/fixtures/selectors.json" file
+2. Functions are written under "cypress/support/commands.js" file
+3. All configuration are present under cypress.config.js file
 
