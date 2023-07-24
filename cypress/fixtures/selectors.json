@@ -1,0 +1,13 @@
+{
+    "productImage": "[class*='sc-124al1g-1 csvtPz']",
+    "productTitle": "[class*='sc-124al1g-4 eeXMBo']",
+    "productPrice": "[class*='sc-124al1g-6 ljgnQL']",
+    "freeShipping": "[class*='sc-124al1g-3 bHJSNa']",
+    "addToCartButton": "[button[class*='sc-124al1g']",
+    "productHeaderCount": "[class*='sc-ebmerl-4 iliWeY']",
+    "productCartItem": "[class*='sc-11uohgb-0 hDmOrM']",
+    "productCartAlertMessage": "[class*='sc-7th5t8-1 hqDkK']",
+    "productCartCloseIcon": "[class*='sc-1h98xa9-0 gFkyvN']",
+    "productCartCount": "[class*='sc-1h98xa9-3 VLMSP']",
+    "productCard": "[class*='sc-124al1g-2']"
+}
